@@ -1,0 +1,7 @@
+venv/
+venvcls/
+__pycache__/
+*.pyc
+.env
+estoque.json
+.vscode/
